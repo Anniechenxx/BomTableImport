@@ -1,0 +1,2 @@
+# BomTableImport
+使用Candance导出的PrintFoot表格进行自动化处理导出BOM表格
